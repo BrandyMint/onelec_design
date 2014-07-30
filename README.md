@@ -1,3 +1,3 @@
-### Zagorod design demo
+### Onelec design demo
 
-live version at http://brandymint.github.io/zagorod_design/
+live version at http://brandymint.github.io/onelec_design/
